@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+matplotlib
+seaborn
+nltk
+spacy
+torch
+torchvision
+pillow
+opencv-python
+albumentations
+jupyter
+python-dotenv

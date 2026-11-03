@@ -1,0 +1,24 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Cache & Compiled Files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large Models & Embeddings (Local Artifacts)
+models/
+*.pkl
+*.npy
+*.pth
+
+# Dataset Files
+data/
+*.csv
+
+# IDE & System Files
+.vscode/
+.idea/
+.DS_Store
